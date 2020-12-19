@@ -1,5 +1,5 @@
 # motointel
-Warning:MotoIntel is being a pre-release so make sure Developer Mode is on.
+Warning:MotoIntel is being a pre-release on alpha so make sure Developer Mode is on.
 And the installer needs to be moved to the desktop.
 # Start of build
 First of all... open the release installer.
